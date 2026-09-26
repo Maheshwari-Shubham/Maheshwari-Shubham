@@ -101,16 +101,6 @@ A food ordering web application.
 
 ---
 
-### 🏥 Health Connect
-
-A healthcare platform for booking appointments with hospitals and doctors.
-
-**Tech Stack**
-
-`React.js` `Tailwind CSS` `Node.js` `Express.js` `MongoDB` `Mongoose`
-
----
-
 ## 📈 Currently Improving
 
 - Selenium Test Automation
